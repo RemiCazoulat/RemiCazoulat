@@ -4,9 +4,9 @@ I am a student in computer science, and what I like is optimisation and the laws
   - Magnet simulation. I've created on Unity a project that allows the user to create magnets (in various forms like a solenoid, a tore, or a tokamak) and particles. I'm calculating using the GPU all the interactions between magnets and particles, according to their parameters (charge, mass, distance, speed, etc...).
   - Fabric and solid simulation. During a school project we learned how to simulate those things using a mass-spring system.
 
-| Magnet simulation | Fabric and solid simulation |
-|:-----------------:|:------------------:|
-|  |  |
+| Magnet simulation | Fabric simulation | Solid simulation|
+|:-----------------:|:------------------:|:------------------:|
+| ![](/magnets.png) | ![](/fabric.png) | ![](/solid.png) |
 
 
 ### Ongoing projects
@@ -15,7 +15,7 @@ I am a student in computer science, and what I like is optimisation and the laws
 
 | Water simulation | Fluid simulation |
 |:-----------------:|:------------------:|
-|  |  |
+|  ![](/ocean.png) |  |  |
 
 
 ### Future projects
