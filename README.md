@@ -1,4 +1,3 @@
-### About me
 I am a student in computer science, and what I like is optimisation and the laws of physics. To link those two fields, I've started doing simulation on GPU of physical behaviors. I would like to create systems where we can visualise fluids behavior, charged particles around magnets, or maybe both, by simulating plasma ! I would like also to simulate interactions between molecules or atoms.  
 ### finished projects
   - Magnet simulation. I've created on Unity a project that allows the user to create magnets (in various forms like a solenoid, a tore, or a tokamak) and particles. I'm calculating using the GPU all the interactions between magnets and particles, according to their parameters (charge, mass, distance, speed, etc...).
