@@ -14,7 +14,7 @@ I am a student in computer science, and what I like is optimisation and physics.
 
 | Water simulation | Fluid simulation |
 |:-----------------:|:------------------:|
-|  ![](/ocean.png) | ![](/fluid.png)  |
+|  ![](/ocean.png) | ![](/fluid2.png)  |
 
 
 ### Future projects
